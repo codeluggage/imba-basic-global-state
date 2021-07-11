@@ -1,19 +1,15 @@
-# Getting Started
+# Basic global state in Imba
 
-This project was bootstrapped with [imba-base-template](https://github.com/imba/imba-base-template).
+A little example repo for https://dev.to/somebee/imba-a-javascript-alternative-for-increased-developer-productivity-49c9
 
-## Available Scripts
+## State
 
-In the project directory, you can run:
+It's all in the `app/state.imba` file
 
-### `npm start`
+## Usage
 
-Runs the app in the development mode.
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+See `app/client.imba` for how to import, render and modify state.
 
-The page will reload if you make edits.
-You will also see any lint errors in the console.
+## Docs
 
-### `npm run build`
-
-Builds the app for production to the `dist` folder.
+[Docs](https://imba.io/language/introduction) are in the process of being updated for Imba 2 - stay tuned! :)
