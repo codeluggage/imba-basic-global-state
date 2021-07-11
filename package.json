@@ -1,0 +1,17 @@
+{
+  "name": "imba-basic-global-state",
+  "scripts": {
+    "start": "imba -w server.imba",
+    "build": "imba build server.imba"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "imba": "^2.0.0-alpha.155"
+  },
+  "repository": "codeluggage/imba-basic-global-state",
+  "description": "How to manage global state in Imba",
+  "version": "1.0.0",
+  "homepage": "https://github.com/codeluggage/imba-basic-global-state",
+  "author": "Matias Forbord",
+  "license": "MIT"
+}
